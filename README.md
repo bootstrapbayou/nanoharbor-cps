@@ -40,7 +40,7 @@ Below are the main categories of labs available in this repository. Click on eac
 
 ### Collaboration
 Enhance team productivity and collaboration through labs focused on:
-- [Microsoft Teams Basics](Lab-Categories/Collaboration/col-lab-1-teams-basics/README.md): Set up Teams, create channels, and explore basic features.
+- [Microsoft Teams Basics](Lab-Categories/Collaboration/col-lab-1-teams-basics/): Set up Teams, create channels, and explore basic features.
 - [SharePoint Site Creation](Lab-Categories/Collaboration/col-lab-2-sharepoint-site/README.md): Build and manage SharePoint sites for team collaboration.
 - [OneDrive for Business](Lab-Categories/Collaboration/col-lab-3-onedrive-business/README.md): Sync files, manage sharing, and set up workflows.
 
