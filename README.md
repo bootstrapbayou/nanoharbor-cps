@@ -1,5 +1,5 @@
 <h1 align="center">NanoHarbor CPS</h1>
-<h2 align="center">(Cloud & Productivity School)</h2>
+<h2 align="center">Cloud & Productivity School</h2>
 
 Welcome to the **Cloud & Productivity School (CPS)** repository! This repository is designed to provide hands-on labs and resources for technology professionals and students interested in mastering Microsoft 365 cloud productivity tools and services.
 
