@@ -40,21 +40,21 @@ Below are the main categories of labs available in this repository. Click on eac
 
 ### Collaboration
 Enhance team productivity and collaboration through labs focused on:
-- [Microsoft Teams Basics](lab-categories/collaboration/col-lab-1-teams-basics/): Set up Teams, create channels, and explore basic features.
-- [SharePoint Site Creation](lab-categories/collaboration/col-lab-2-sharepoint-site/): Build and manage SharePoint sites for team collaboration.
-- [OneDrive for Business](lab-categories/collaboration/col-lab-3-onedrive-business/): Sync files, manage sharing, and set up workflows.
+- [Microsoft Teams Basics](lab-categories/collaboration/col-lab-1-teams-basics/README.md): Set up Teams, create channels, and explore basic features.
+- [SharePoint Site Creation](lab-categories/collaboration/col-lab-2-sharepoint-site/README.md): Build and manage SharePoint sites for team collaboration.
+- [OneDrive for Business](lab-categories/collaboration/col-lab-3-onedrive-business/README.md): Sync files, manage sharing, and set up workflows.
 
 ### Automation
 Discover how to automate routine tasks and streamline processes with labs focused on:
-- [Power Automate for Beginners](lab-categories/automation/auto-lab-1-power-automate-basics/): Learn to create simple workflows.
-- [Advanced PowerShell Scripting](lab-categories/automation/auto-lab-2-powershell-advanced/): Automate tasks across Microsoft 365 with advanced PowerShell.
-- [Automating MS Teams Channels](lab-categories/automation/auto-lab-3-teams-automation/): Automate Teams channels, permissions, and meeting templates.
+- [Power Automate for Beginners](lab-categories/automation/auto-lab-1-power-automate-basics/README.md): Learn to create simple workflows.
+- [Advanced PowerShell Scripting](lab-categories/automation/auto-lab-2-powershell-advanced/README.md): Automate tasks across Microsoft 365 with advanced PowerShell.
+- [Automating MS Teams Channels](lab-categories/automation/auto-lab-3-teams-automation/README.md): Automate Teams channels, permissions, and meeting templates.
 
 ### Security & Compliance
 Explore essential security practices and compliance management in Microsoft 365 with labs focused on:
-- [Configuring DLP Policies](lab-categories/security-compliance/sec-lab-1-dlp-configuration/): Set up Data Loss Prevention policies.
-- [Setting Up Compliance Center](lab-categories/security-compliance/sec-lab-2-compliance-center/): Manage compliance policies and data retention.
-- [Managing Encryption Settings](lab-categories/security-compliance/sec-lab-3-encryption-settings/): Configure encryption for emails and files.
+- [Configuring DLP Policies](lab-categories/security-compliance/sec-lab-1-dlp-configuration/README.md): Set up Data Loss Prevention policies.
+- [Setting Up Compliance Center](lab-categories/security-compliance/sec-lab-2-compliance-center/README.md): Manage compliance policies and data retention.
+- [Managing Encryption Settings](lab-categories/security-compliance/sec-lab-3-encryption-settings/README.md): Configure encryption for emails and files.
 
 ---
 
