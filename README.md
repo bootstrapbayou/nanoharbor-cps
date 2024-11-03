@@ -1,4 +1,5 @@
-# NanoHarbor CPS (Cloud & Productivity School)
+# NanoHarbor CPS 
+## (Cloud & Productivity School)
 
 Welcome to the **Cloud & Productivity School (CPS)** repository! This repository is designed to provide hands-on labs and resources for technology professionals and students interested in mastering Microsoft 365 cloud productivity tools and services.
 
@@ -8,7 +9,8 @@ Whether you're new to Microsoft 365 or looking to deepen your skills, our labs c
 
 ## Table of Contents
 
-- [NanoHarbor CPS (Cloud \& Productivity School)](#nanoharbor-cps-cloud--productivity-school)
+- [NanoHarbor CPS](#nanoharbor-cps)
+  - [(Cloud \& Productivity School)](#cloud--productivity-school)
   - [Table of Contents](#table-of-contents)
   - [About This School](#about-this-school)
   - [Lab Categories](#lab-categories)
